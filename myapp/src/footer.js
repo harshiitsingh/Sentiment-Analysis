@@ -5,8 +5,8 @@ function Footer() {
   return(
     <>
   <div className="footer">
-      <h5>Rishikesh Ranjan <br/>B418037@iiit-bh.ac.in</h5>
-      <h5>Vikalp Prasad <br/>B218052@iiit-bh.ac.in</h5>
+      <h5>Harshit Singh <br/>B120026@iiit-bh.ac.in</h5>
+      <h5>Saurav Pati <br/>B120057@iiit-bh.ac.in</h5>
   </div>
   </>
   );
