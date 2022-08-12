@@ -41,7 +41,7 @@ function App() {
 
   async function analyzeAgain() {
     setPred(null)
-    location.reload()
+    window.location.reload();
   }
 
   async function satisfaction(value) {
